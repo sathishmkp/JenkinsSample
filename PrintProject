@@ -1,0 +1,14 @@
+public class jenkinsSample{
+
+public static void main(String [] args){
+
+           System.out.println("Think Big,You will reach better");
+           System.out.println("i will win immidiately");
+
+
+
+}
+
+
+
+}
